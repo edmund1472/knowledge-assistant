@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeAssistant", "backend\KnowledgeAssistant.csproj", "{BEDBF031-5A3C-BDC9-1C16-EA06D88FCE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDBF031-5A3C-BDC9-1C16-EA06D88FCE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDBF031-5A3C-BDC9-1C16-EA06D88FCE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDBF031-5A3C-BDC9-1C16-EA06D88FCE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDBF031-5A3C-BDC9-1C16-EA06D88FCE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E4AA32-72D1-45C4-90D2-6B311DFD1C36}
+	EndGlobalSection
+EndGlobal

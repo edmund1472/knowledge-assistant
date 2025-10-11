@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeAssistant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b047c90bdefcf0c3f8b3658aaed481135887b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea0277b2bb0ed41c69b58f8f97497dd23ccb1c0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeAssistant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeAssistant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
