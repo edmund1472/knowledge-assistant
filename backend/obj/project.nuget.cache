@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJGbuJV/IfM=",
+  "dgSpecHash": "JgUyimqwAGc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant\\backend\\KnowledgeAssistant.csproj",
+  "projectFilePath": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant-1\\backend\\KnowledgeAssistant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edmund\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.3.0\\microsoft.aspnetcore.cors.2.3.0.nupkg.sha512",
     "C:\\Users\\Edmund\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",

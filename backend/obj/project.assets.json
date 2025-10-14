@@ -1507,11 +1507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant\\backend\\KnowledgeAssistant.csproj",
+      "projectUniqueName": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant-1\\backend\\KnowledgeAssistant.csproj",
       "projectName": "KnowledgeAssistant",
-      "projectPath": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant\\backend\\KnowledgeAssistant.csproj",
+      "projectPath": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant-1\\backend\\KnowledgeAssistant.csproj",
       "packagesPath": "C:\\Users\\Edmund\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant\\backend\\obj\\",
+      "outputPath": "C:\\Users\\Edmund\\Desktop\\knowledge assistant\\knowledge-assistant-1\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edmund\\AppData\\Roaming\\NuGet\\NuGet.Config"
