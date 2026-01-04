@@ -42,3 +42,4 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+//s
